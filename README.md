@@ -12,7 +12,7 @@ Now there are a minority of those who read and watch my videos who want to see t
 
 Hence the reason you're reading this right now.
 
-You see for those who do read and watch my videos I'm really grateful and I do want to give back in a form of an exclusive group.
+You see for those who do read and watch my videos I'm really grateful and I do want to give back in a form of an exclusive content.
 
 Clean-Code-Z is a group that I have offically created, and by being a member you get access to the code that I use in my articles and videos completely free. Now I'm not very creative so with the words Clean-Code in the title you probably know where I'm going with this.
 
