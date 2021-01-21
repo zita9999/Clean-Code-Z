@@ -13,7 +13,7 @@ Other times I just slap a bunch of for loops and Truth statements together and w
 
 When these rare times do occur though that is when I create an article or video to show off what I created so I can convince myself that this wasn't a complete waste of time.
 
-Now there are a minority of those who read and watch my videos who want to see the code themselves. The only problem with that is my code is messier than a hoarders garage and at times I can't even understand it. 
+Now there are a minority of those who read and watch my videos who want to see the code themselves. The only problem with that is that my code is messier than a hoarders garage and at times I can't even understand it. 
 
 Hence the reason you're reading this right now.
 
