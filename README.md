@@ -5,7 +5,7 @@ Let me give you a short summary of who I am.
 
 My name is Chris and I'm a 4th year math and stats student that likes to do a bunch of random and dumb things with code.
 
-Mostly whenever I have a groud breaking project idea my code never works properly! Cause you know sometimes your code just hates you and wants to give you an error for absolutely no reason. 
+Whenever I have a ground breaking project idea my code for the most part never works properly! Cause you know sometimes your code just hates you and wants to give you an error for absolutely no reason. 
 
 
 Other times I just slap a bunch of for loops and truth statements together and what do you know I just cured cancer.
@@ -28,6 +28,10 @@ I also just want to say... Please do not hold me to a high standard I'm not this
 So I hope you guys enjoy being apart of this group, and I'll be sending messages out whenever a piece of mine comes out.
 
 Thanks for reading or watching or whatever you did to get here!
+
+Medium:https://christopherzita.medium.com/
+
+Youtube:https://www.youtube.com/channel/UCYmlPeN_h-eD_Ot59rUXViw
 
 
  
