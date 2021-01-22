@@ -29,9 +29,9 @@ So I hope you guys enjoy being apart of this group, and I'll be sending messages
 
 Thanks for reading or watching or whatever you did to get here!
 
-Medium:https://christopherzita.medium.com/
+Medium: https://christopherzita.medium.com/
 
-Youtube:https://www.youtube.com/channel/UCYmlPeN_h-eD_Ot59rUXViw
+Youtube: https://www.youtube.com/channel/UCYmlPeN_h-eD_Ot59rUXViw
 
 
  
