@@ -21,9 +21,9 @@ You see for those who do read and watch my videos I'm really grateful and I do w
 
 Clean Code Z is a group that I have offically created, and by being a member you get access to the code that I use in my articles and videos completely free. Now I'm not very creative so with the words Clean-Code in the title you probably know where I'm going with this...
 
-All the pieces of code that your able to access will be fully cleaned and commented so it can be easily read and recreated it.
+All the pieces of code that your able to access will be fully cleaned and commented so it can be easily read and recreated.
 
-I also just want to say... Please do not hold me to a high standard I'm not this god like coder and I'll be honest you can probably do better.
+I also just want to say... Please do not hold me to a high standard I'm not this god like coder and I'll be honest you can probably do better me.
 
 So I hope you guys enjoy being apart of this group, and I'll be sending messages out whenever a piece of mine comes out.
 
