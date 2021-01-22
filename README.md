@@ -25,9 +25,9 @@ All the pieces of code that your able to access will be fully cleaned and commen
 
 I also just want to say... Please do not hold me to a high standard I'm not this god like coder and I'll be honest you can probably do better me.
 
-So I hope you guys enjoy being apart of this group, and I'll be sending messages out whenever a piece of mine comes out.
+So I hope you guys enjoy being apart of this group, and I'll be sending messages out whenever a new piece of mine comes out.
 
-Thanks for reading or watching or whatever you did to get here!
+Thanks for reading or watching or whatever you did to get here, I really appreciate it!
 
 Medium: https://christopherzita.medium.com/
 
