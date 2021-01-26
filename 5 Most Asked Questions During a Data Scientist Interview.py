@@ -94,10 +94,10 @@ text1 = my_tokenizer(text)
 #--Summary: This chunk of code will go through the words that weren't removed in the last section and count how many times a word appears 
 #           The count is documented in a dictionary with each word and how many times it appeared.          
 
-#Createsan empty dictionary
+#Creates an empty dictionary
 word_index_map ={}
 
-#This loop goes through all the words we scrpaed and did not get rid of
+#This loop goes through all the words we scraped and did not get rid of
 for word in text1:
     #If the word isn't already in the dictionary, it adds it in with a value of 1
     if word not in word_index_map:
@@ -116,6 +116,9 @@ count = []
 for i in questions:
     if 'word' in i:
         count.append(i)
+     
 
+#If you want to learn more about BeautifulSoup, Selenium and what it could do.
+#Check out my course I made on the two topics here: https://www.udemy.com/course/web-scraping-in-python-with-beautifulsoup-and-selenium/?referralCode=939EB64B8E029FCBBDEB
     
 
