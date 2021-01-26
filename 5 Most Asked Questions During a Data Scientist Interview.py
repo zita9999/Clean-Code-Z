@@ -24,7 +24,7 @@ import numpy as np
 ##################################### -Going to Glassdoor- ##########################################################################################################
 
 #Opens up a Chrome browser using the driver you should have downloaded from the Selenium video above, and goes to Glassdoor for Data Scientist interviews at Facebook
-driver = webdriver.Chrome('C:/Web Scraping course/chromedriver.exe')
+driver = webdriver.Chrome('C:/File_Pathe/chromedriver.exe')
 driver.get('https://www.glassdoor.ca/Interview/Facebook-Data-Scientist-Interview-Questions-EI_IE40772.0,8_KO9,23.htm')
 
 
