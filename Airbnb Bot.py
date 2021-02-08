@@ -1,7 +1,9 @@
 ##################################### -PLS READ- ################################################################################################
 '''
    
-I created a Youtube video that shows you exactly how to use this bot. I recommend you watch it by going to this link: https://youtu.be/V2u8asYjFcE
+ - I created a Youtube video that shows you exactly how to use this bot. I recommend you watch it by going to this link: https://youtu.be/V2u8asYjFcE
+
+ - This bot is created in Python so to use it for yourself go to any Python application and copy and paste this entire code.
 
 '''
 
@@ -17,7 +19,7 @@ url = ''
  - There's a couple libraries you need to install first for this code to work.
  - 1. You have to install the BeautifulSoup library. I created a short 3-minute video on how to do this just use this link: https://www.youtube.com/watch?v=tv05NzizNtE&t=0s
  - 2. You have to install Selenium and a webdriver. I created a short 4-minute video on how to do this just use this link: https://www.youtube.com/watch?v=VYHxIUnvmpQ&t=1s
- - 3. When you have Selenium and the webdriver downloaded. Go to line 38 and paste the file path to your webdriver there.
+ - 3. When you have Selenium and the webdriver downloaded. Go to line 40 and paste the file path to your webdriver there.
  
 '''
 
