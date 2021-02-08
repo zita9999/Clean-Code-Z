@@ -16,7 +16,7 @@ product = ''
 ##################################### -Notes- ################################################################################################
 '''
 
- - There's a couple libraries you need to import first for this code to work.
+ - There's a couple libraries you need to install first for this code to work.
  - 1. You have to install the BeautifulSoup library. I created a short 3-minute video on how to do this just use this link: https://www.youtube.com/watch?v=tv05NzizNtE&t=0s
  - 2. You have to install selenium and a webdriver. I created a short 4-minute video on how to do this just use this link: https://www.youtube.com/watch?v=VYHxIUnvmpQ&t=1s
  - 3. When you have Selenium and the webdriver downloaded. Go to line 40 and paste the file path to your webdriver there.
