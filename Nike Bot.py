@@ -5,7 +5,7 @@
 
  - This bot is created in Python so to use it for yourself, go to any Python application and copy and paste this entire code.
  
- - - If you want to learn how to create these type of bots for yourself you can take my course in web scraping to learn how. Here's the link: https://www.udemy.com/course/web-scraping-in-python-with-beautifulsoup-and-selenium/?referralCode=939EB64B8E029FCBBDEB
+ - If you want to learn how to create these type of bots for yourself you can take my course in web scraping to learn how. Here's the link: https://www.udemy.com/course/web-scraping-in-python-with-beautifulsoup-and-selenium/?referralCode=939EB64B8E029FCBBDEB
 
 '''
 
