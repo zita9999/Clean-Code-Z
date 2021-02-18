@@ -49,9 +49,9 @@ driver.find_element_by_xpath('//*[@id="susi-modal-fb-button"]/div/a').click()
 
 #The chunk of code below will input my email address and password then press the log in button
 email = driver.find_element_by_xpath('//*[@id="email"]')
-email.send_keys('chris.zita@bell.net')
+email.send_keys('######')
 password = driver.find_element_by_xpath('//*[@id="pass"]')
-password.send_keys('Cowboys9!')
+password.send_keys('#######')
 driver.find_element_by_xpath('//*[@id="loginbutton"]').click()
 
 #This code tells the program to wait until the home page of Medium has loaded in
